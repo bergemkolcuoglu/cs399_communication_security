@@ -1,2 +1,2 @@
-# cs399_communication_security
+# Communication Security
 Communication Security Homework
