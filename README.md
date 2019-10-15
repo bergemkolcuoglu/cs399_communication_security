@@ -1,2 +1,2 @@
 # Communication Security
-Communication Security Homework
+Communication Security Project
